@@ -53,3 +53,6 @@ create table tblCourse(CourseID INTEGER NOT NULL PRIMARY KEY, CourseName VARCHAR
 
 CROSS PRODUCT is two tables being manipulated into a view
 
+
+## Todds Comments
+Good start especially the second entry. Please review the guide given on your DAT602 course outline.
