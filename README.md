@@ -228,3 +228,4 @@ DELIMITER //
 HOMEWORK
 
 Do stored procedures for homework in the class 4-5 session notes
+## Todd's comments expecting reflection of YOUR learning. Coming along - but more expected
